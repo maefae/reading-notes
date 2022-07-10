@@ -1,6 +1,6 @@
 # Class 2 Reading Notes 
 
-I use windows so I will be focusing on the CMD cheatsheet. 
+I use windows so I will be focusing on the CMD cheatsheet. [CMD Cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
 For mac: terminal command
 
