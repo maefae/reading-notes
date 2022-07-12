@@ -2,6 +2,8 @@
 
 I use windows so I will be focusing on the CMD cheatsheet. [CMD Cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
+[linux_Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+
 For mac: terminal command
 
 for Linux: Linux commands
