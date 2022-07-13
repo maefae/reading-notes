@@ -51,3 +51,24 @@ make a change, and save it.
 open the terminal and type git status
 it'll show red and it will convey the name of the project (README.md) so you need to type: git add README.md
 type git status again, and it will be green
+
+# Using Git Command
+finally, take that snapshot!
+- type: git commit  -m "your message goes here"
+> git commit -m "adds initial greeting to the world"
+- git commit is the shutter button to take the snapshot
+- -m specifies the message 
+- think of the message as being like a photo caption (what changes did you make
+why are they significant?)
+
+#Using Git Push
+Now it's time to sync this code to your repo on GitHub
+- Type: git push origin main
+> git push origin main
+counting objects, 6, done.
+...
+To git@github.com:brookr/hello-world.git
+  * [new branch] master -> master 
+- git commit is what takes the snapshot
+- this sends any new commits (the snapshots of your code) to GitHUb
+- go to your repo on GitHub, and look for your files
