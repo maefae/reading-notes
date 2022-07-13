@@ -33,3 +33,21 @@ A **repository** is a collection of files that you've told Git to pay attention 
 
 # gitflow:acp (Add, Commit, Push) 50;20;00
 
+**cloning** 
+in the projects directory 
+- type: git clone
+- follow that with a space
+- paste in the link you copied
+ex: git clone https://blahblah.com
+- then hit enter
+
+Typing ls (list) into the terminal, you can see you have a new folder that is the same name of the repository. 
+cd into your repo. It'll say git(main) which means it's tracking the saves and deletes of the repo.
+to see the **URL** of the repo, type: git remote -v
+
+# Using Git Status
+open vs code with: code .
+make a change, and save it.
+open the terminal and type git status
+it'll show red and it will convey the name of the project (README.md) so you need to type: git add README.md
+type git status again, and it will be green
