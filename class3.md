@@ -28,3 +28,6 @@ With GIt (version control) and GitHub (online code storage), you can:
 
 # Repositories
 A **repository** is a collection of files that you've told Git to pay attention to
+- usually one project = one repo
+- really large projects might have multi repos (front end and back)
+- 
