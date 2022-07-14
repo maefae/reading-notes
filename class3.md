@@ -70,7 +70,7 @@ Typing ls (list) into the terminal, you can see you have a new folder that is th
 - to see the **URL** of the repo, type: git remote -v
 - typing ls, you should see the files within the repo (for ex: README file)
 
-# Gitflow:ACP (Add, Commit, Push)
+# Gitflow:ACP (Add, Commit, Push) (you can remove/add lines of code or delete/add files using this method)
 
 ## Using Git Status
 open vs code with: code .
