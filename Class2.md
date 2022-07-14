@@ -1,17 +1,29 @@
 # Class 2 Reading Notes 
 
-I use windows so I will be focusing on the CMD cheatsheet. [CMD Cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+**Text Editor**: Software that you download/install on your computer, or access online through your web browser. It allows you to write/manage text, esp. the text that you write to built a web site.
 
-[linux_Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+## Important features of a text editor
+- Code completion 
+- Syntax highlighting
+- a nice variety of themes (to reduce eye strain)
+- ability to choose from a healthy selection extensions available when you need them
 
-For mac: terminal command
+**Code Completion**: Allows you to start typing, and the code completion feature will display possible suggestions based on what you originally typed (time saver).
 
-for Linux: Linux command
+**Syntax highlighting**: feature that takes the text you type, and makes it more noticeable by colorizing the text
 
-Filepath indicates where you are in the system
-**dir** is a command that displays a list of folder files and subfolders
-**cd** (chdir) stand for CHANGE DIRECTORY. displays the name of the current directory or changes the current folder
+**Themes**: Allows you to change the colors of your background in a manner that best suits your personal taste and prevents eye strain/fatigue
 
-**md** (mkdir) creates a folder (directory)
-**rm** (rmdir) deletes a folder (directory)
-**ls** stands for list
+**Extensions**: plugins for your text editor, that allow you to have superpowers that you wouldn’t have otherwise
+
+# Linux Cheatsheet
+- pwd: Stands for *print working directory* and shows the current directory you are in
+- cd: change directory
+- ls: list
+- ls -a: list contents & hidden files
+- file: Gather information about what type of file
+- ~: shortcut to take you to home of directory
+- . (dot): refers to your current directory 
+- cd ..: return to last directory
+- rm: remove file
+- cat: create a new file
