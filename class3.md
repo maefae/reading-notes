@@ -89,5 +89,6 @@ When you delete file off of github and want vs code to match that, you type in y
 
 Let's say you want to delete some code on vscode. The file is called, "app.js" and you want github to match that,
 type: git rm app.js
-
+type: git commit -m "removed app file until later"
+type: git origin push main
 
