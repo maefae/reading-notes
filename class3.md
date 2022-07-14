@@ -13,8 +13,14 @@ Each **commit** (snapshot) has a label that points to it
 - You can also assign messages to commit (what did you do here that makes it different)
 - messages are like writing a caption for your snapshot
 
+#snapshots in time
+- Commits represent each successive version of a file or files
+- commits are the equivalent of "Save as..."
+- Each successive version creates a new snapshot on the timeline of the project
+
 # What is Github?
-- github can be either public or private. github is not git
+- github can be either public or private. 
+- github is not git
 - public place to share and store code
 - Github uses git to manage your team's work
 - it uses version tracking, reviews changes, keep separate changes until you want to add them
