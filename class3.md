@@ -72,3 +72,14 @@ To git@github.com:brookr/hello-world.git
 - git commit is what takes the snapshot
 - this sends any new commits (the snapshots of your code) to GitHUb
 - go to your repo on GitHub, and look for your files
+
+# Pulling Files from computer (GitHub) to VScode through the terminal
+- Type: git pull origin main (pulling from the cloud)
+- you don't need to ACP Github to the computer
+
+#GitHub Pages
+- Any repo can be published with Github pages
+- Each repo can be styled with a theme
+- Whenever you push changes, the published site will update
+- That's called "deployment." It transforms markdown into an actual Github page
+- 
