@@ -82,4 +82,12 @@ To git@github.com:brookr/hello-world.git
 - Each repo can be styled with a theme
 - Whenever you push changes, the published site will update
 - That's called "deployment." It transforms markdown into an actual Github page
-- 
+
+When you delete file off of github and want vs code to match that, you type in your terminal (Ubuntu):
+- git pull origin main
+- result will be it to delete on vscode too
+
+Let's say you want to delete some code on vscode. The file is called, "app.js" and you want github to match that,
+type: git rm app.js
+
+
