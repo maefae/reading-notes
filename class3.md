@@ -37,8 +37,26 @@ A **repository** is a collection of files that you've told Git to pay attention 
 - usually one project = one repo
 - really large projects might have multi repos (front end and back)
 
-# gitflow:acp (Add, Commit, Push) 50;20;00
+# gitflow:acp (Add, Commit, Push) 
 
+## Linking Repos
+
+After making a new repository, you'll want to copy this repo onto your computer and connect the two repos together. 
+Once connected, they can give/receive code from the other repo. TO do this, you must **clone** from the cloud (github) to our local machine (computer)
+
+## Clone that Repo
+1. On github, Click the green button that says **code** or **download** (ensure it says HTTPS)
+2. Copy the URL using the copy clipboard button shortcut
+
+## Start in your projects folder
+- open up your terminal 
+- use **cd** and **ls** to navigate into your **projects** directory
+-  if it doesn't exist, go to your home directory: cd ~
+-  and make a folder to hold all your repos: **mkdir projects**
+-  then change it into: **cd projects**
+-  check where you are with **pwd**
+
+## Using Git Clone
 **cloning** 
 in the projects directory 
 - type: git clone
@@ -48,15 +66,19 @@ ex: git clone https://blahblah.com
 - then hit enter
 
 Typing ls (list) into the terminal, you can see you have a new folder that is the same name of the repository. 
-cd into your repo. It'll say git(main) which means it's tracking the saves and deletes of the repo.
-to see the **URL** of the repo, type: git remote -v
+**cd** into your repo (ex: cd hello-world). It'll say git (main) which means it's tracking the saves and deletes of the repo.
+- to see the **URL** of the repo, type: git remote -v
+- typing ls, you should see the files within the repo (for ex: README file)
 
-# Using Git Status
+# Gitflow:ACP (Add, Commit, Push)
+
+## Using Git Status
 open vs code with: code .
 make a change, and save it.
 open the terminal and type git status
 it'll show red and it will convey the name of the project (README.md) so you need to type: git add README.md
-type git status again, and it will be green
+type git status again, and it will be green. if there are multiple files that are coming up read, you can type: 
+git add . (which conveys you are adding all files).
 
 # Using Git Command
 finally, take that snapshot!
@@ -67,7 +89,7 @@ finally, take that snapshot!
 - think of the message as being like a photo caption (what changes did you make
 why are they significant?)
 
-#Using Git Push
+#Using Git Push (we want the repo on the terminal and vscode to be pushed up to github)
 Now it's time to sync this code to your repo on GitHub
 - Type: git push origin main
 > git push origin main
