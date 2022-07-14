@@ -92,11 +92,6 @@ why are they significant?)
 #Using Git Push (we want the repo on the terminal and vscode to be pushed up to github)
 Now it's time to sync this code to your repo on GitHub
 - Type: git push origin main
-> git push origin main
-counting objects, 6, done.
-...
-To git@github.com:brookr/hello-world.git
-  * [new branch] master -> master 
 - git commit is what takes the snapshot
 - this sends any new commits (the snapshots of your code) to GitHUb
 - go to your repo on GitHub, and look for your files
@@ -120,3 +115,5 @@ type: git rm app.js
 type: git commit -m "removed app file until later"
 type: git origin push main
 
+# verify on github
+You can do that by clicking on the link next to the file (readme.md in this case)
