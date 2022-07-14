@@ -4,6 +4,6 @@ I created this journal on July 1, 2022. I'm excited to see where a route in tech
 ## Code 102 - Intro to Software Development
 ### Table of Contents
 
-- [Class 1](https://github.com/maefae/reading-notes/blob/main/class1.md) - Growth Mindset
-- [Class 2](https://github.com/maefae/reading-notes/blob/main/class2.md) - The Coder's Computer
-- [Class 3](https://github.com/maefae/reading-notes/blob/main/class3.md) - Git/Github
+- [Class 1](https://maefae.github.io/reading-notes/class1) - Growth Mindset
+- [Class 2](https://maefae.github.io/reading-notes/class2) - The Coder's Computer
+- [Class 3](https://maefae.github.io/reading-notes/class3) - Git/Github
