@@ -1,4 +1,4 @@
-# Class 3 Reading Notes
+# Class 3 Reading Notes [github tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 dvcs stand for: distributed version control system
 ## What is Git?
 - it's a version control system (dvcs)
