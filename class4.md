@@ -48,4 +48,6 @@ Difference between push and pull
   
   In HTML, for example, the < h1 > element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
   
+  #Semantic elements
+
   
