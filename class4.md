@@ -26,3 +26,11 @@ Difference between push and pull
   html - skeleton
   css - hair, clothes
   javascript - movement, muscle, what you do
+
+  # Wireframe
+  a **wireframe** is a low fidelity sketch of an interface. Outline/barebones of the key elements of a design.
+  
+  - The purpose of a wireframe is to help the designer plan how everything is laid out on the screen before they progress onto the details
+  - Provides basic artifact to be tested with users to confirm/deny different design choices
+  - important to keep things SIMPLE
+  
