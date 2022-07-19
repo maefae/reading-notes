@@ -22,3 +22,7 @@ Difference between push and pull
   - opening/closing brackets <> </>
   - self closing (images are self closing) 
   example: <img src="url"/>
+
+  html - skeleton
+  css - hair, clothes
+  javascript - movement, muscle, what you do
