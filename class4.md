@@ -50,7 +50,7 @@ Difference between push and pull
   
   #Semantic elements
 ```markdown
-  <article>
+<article>
 <aside>
 <details>
 <figcaption>
