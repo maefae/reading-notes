@@ -46,6 +46,6 @@ Difference between push and pull
   
  Refers to the *meaning* of a piece of code. For example, "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
   
-  In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+  In HTML, for example, the < h1 > element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
   
   
