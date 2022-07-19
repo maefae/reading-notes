@@ -42,4 +42,9 @@ Difference between push and pull
   - Provides basic artifact to be tested with users to confirm/deny different design choices
   - important to keep things SIMPLE
   
+  # [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+ Refers to the *meaning* of a piece of code. For example, "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+  
+  In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+  
   
