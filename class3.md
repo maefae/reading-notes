@@ -117,3 +117,13 @@ type: git origin push main
 
 # verify on github
 You can do that by clicking on the link next to the file (readme.md in this case)
+
+(quick instructions to get your site from your local machine onto github)
+- create a repo
+- cd your way into whatever folder you want the file to live in
+- copy the link and type into your terminal: git clone (link)
+- git status to see what file isn't being tracked
+- git add (name of file)
+- git status to see it has turned green
+- git commit -m "message in here"
+- git push origin main
