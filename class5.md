@@ -25,4 +25,4 @@ for example:
 ```
 - Internal CSS: Utilize the < style> </style > tag within the html doc
 - Inline CSS: use css within an html tag. 
-For example: <h1 style="color:blue;text-align:center;">I am a happy heading.</h1>
+For example: <h1 style="color:blue;text-align:center;">I am a happy heading.</h1 >
