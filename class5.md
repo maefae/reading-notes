@@ -1,4 +1,4 @@
-# CSS
+# Reading NOtes for Class 5 - CSS
 
 ## What is CSS?
 (Cascading Style Sheets) allows you to create great-looking web pages! CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
