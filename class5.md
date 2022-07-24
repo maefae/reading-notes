@@ -26,3 +26,12 @@ for example:
 - Internal CSS: Utilize the < style> </style > tag within the html doc
 - Inline CSS: use css within an html tag. 
 For example: < h1 style="color:blue;text-align:center;">I am a large heading.</h1 >
+
+whatever is in the style tag is going to override waht came before.
+Top to bottom, it's going to be the most reent rule that takes priority.
+1. Browser default
+2. style sheet
+3. internal
+4. inline (will beat out other rules)
+
+ul is outside of li
