@@ -1,4 +1,4 @@
-# Reading notes for class 6 - Javascript
+# Reading notes for class 6 - [Javascript](https://www.w3schools.com/js/js_variables.asp)
 ### Review
 you can do this in css two ways:
 ```markdown
@@ -15,7 +15,7 @@ border-color: black;
 }
 ```
 ## What is javascript?
-- JS is doing
+**a light weight, interpreted, or just-in-time compiled programming language with first-class functions
 - functionality of the page
 - interactive
 - if HTML is content, JS is what you do (interactive)
