@@ -26,5 +26,5 @@ border-color: black;
 - used for data collection
 
 ## How do we use JS?
-- script file
+- script file < style > </style >
 - app.js
