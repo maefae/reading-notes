@@ -28,3 +28,9 @@ border-color: black;
 ## How do we use JS?
 - script file < style > </style >
 - app.js
+
+in the script tag, you can use console.log(insertvariable); to print out the typed ansswer in the console section of your webpage. You can access your console
+on windows by pressing: ctrl + shift + I simultaneously
+example: 
+let favoriteShow = prompt("What was your favorite tv series in 2022?");
+        console.log(favoriteShow);
