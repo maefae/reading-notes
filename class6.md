@@ -34,3 +34,7 @@ on windows by pressing: ctrl + shift + I simultaneously
 example: 
 let favoriteShow = prompt("What was your favorite tv series in 2022?");
         console.log(favoriteShow);
+
+another example:
+
+console.log("hi guys, are you loving javascript?")
