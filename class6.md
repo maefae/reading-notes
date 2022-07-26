@@ -38,3 +38,12 @@ let favoriteShow = prompt("What was your favorite tv series in 2022?");
 another example:
 
 console.log("hi guys, are you loving javascript?")
+
+# What is a variable?
+A **variable** is a way to programmatically reference a previously assigned value
+
+'93' string
+93 number
+true boolean
+'two' string
+4 + '2' string
