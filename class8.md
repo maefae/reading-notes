@@ -2,7 +2,9 @@
 
 # (Review) What is the difference between:
 = ; assignment operator --> GIVING something it's value. You are saying, "yes this thing has this value"
+
 ==; comparing -- this thing = that thing
+
 ===; this thing strictly = that thing
 
 # Assignment operators
