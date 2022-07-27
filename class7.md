@@ -69,3 +69,9 @@ Operator	Example	Same As
 var - older version of variable
 let - newer version
 const - a variable that never changes
+
+# Global variable vs. local variable
+example: function custom messages cannot be seen on the console whereas if else statements are global
+The difference: global variable can be accessed at any time. I can use a global variable inside a function because I created it outside of the function.
+
+If a variable is created for the first time within a function, you cannot access it outisde of the function
