@@ -66,3 +66,6 @@ Operator	Example	Same As
 +=        x += y  x = x + y
 *=        x *= y  x = x * y
 ```
+var - older version of variable
+let - newer version
+const - a variable that never changes
