@@ -47,7 +47,7 @@ console.log(obj); // Prints { x: 3, y: 5 }.
 Examples of Operators include:
 =, != (not equal), !== (strict, not equal), etc.
 
-# Comparison operators
+# Comparison Operators
 
 A comparison operator compares its operands and returns a logical value based on whether the comparison is true. 
 The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. 
@@ -59,6 +59,33 @@ The following table describes the comparison operators in terms of this sample c
 ```markdown
 const var1 = 3;
 const var2 = 4;
+
+another example:
+
+let y = 5
+let x = "5"
+
+console.log(x==y) - output equals true because == is not strict so it sees the numbers as the same
+console.log(x===y) - output is false because ==== strictly adheres to data types including numbers and strings
+```
+```markdown
+## Truth Tables
+Let x = true;
+let y = true;
+
+console.log(x && y) - output is true
+----
+Let x = true;
+let y = true;
+
+console.log(x || y) - (|| = or) output is true 
+
+or
+
+Let x = true;
+let y = true;
+
+console.log((x == y) && (x===)) - output is false
 ```
 
 # for statement
