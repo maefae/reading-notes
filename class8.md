@@ -13,6 +13,23 @@ An **assignment operator** assigns a value to its left operand based on the valu
 The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. 
 That is, x = f() is an assignment expression that assigns the value of f() to x.
 
+3                  +          4
+operand 1     operator    operand 2
+
+      assignment operator
+x           =                  3
+
+++ = add one
+```markdown
+let x = 0;
+console.log(x);
+x += 3 //x = x + 3
+console.log(x);
+
+x -= 1 //x = x - 1
+console.log(x);
+```
+
 Assigning to properties
 If an expression evaluates to an object, then the left-hand side of an assignment expression may make assignments to properties of that expression. For example:
 ```markdown
@@ -39,15 +56,21 @@ This behavior generally results in comparing the operands numerically. The sole 
 which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. 
 The following table describes the comparison operators in terms of this sample code:
 
+```markdown
+const var1 = 3;
+const var2 = 4;
+```
+
 # for statement
 A **for loop** repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
 A for statement looks as follows:
 
 ```markdown
-const var1 = 3;
-const var2 = 4;
+for ([initialExpression]; [conditionExpression]; [incrementExpression])
+  statement
 ```
+
 # while statement
 
 A **while statement** executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
