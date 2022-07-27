@@ -75,3 +75,6 @@ example: function custom messages cannot be seen on the console whereas if else 
 The difference: global variable can be accessed at any time. I can use a global variable inside a function because I created it outside of the function.
 
 If a variable is created for the first time within a function, you cannot access it outisde of the function
+
+## Why do we use functions?
+to re-use code that we write
