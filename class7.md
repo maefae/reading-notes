@@ -1,4 +1,4 @@
-reading notes for class 7 - [Javascript Functions](https://www.w3schools.com/js/js_operators.asp)
+# reading notes for class 7 - [Javascript Functions](https://www.w3schools.com/js/js_operators.asp)
 # Control Flow
 The **control flow** is the order in which the computer executes statements in a script.
 For example, imagine a script used to validate user data from a webpage form. 
