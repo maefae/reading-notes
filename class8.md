@@ -27,6 +27,8 @@ obj[key] = 5;
 console.log(obj[key]); // Prints 5.
 console.log(obj); // Prints { x: 3, y: 5 }.
 ```
+Examples of Operators include:
+=, != (not equal), !== (strict, not equal), etc.
 
 # Comparison operators
 
