@@ -1,6 +1,6 @@
 # Reading Notes for class 8 - JS [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) and [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-# What is the difference between:
+# (Review) What is the difference between:
 = ; assignment operator --> GIVING something it's value. You are saying, "yes this thing has this value"
 ==; comparing -- this thing = that thing
 ===; this thing strictly = that thing
@@ -35,8 +35,8 @@ This behavior generally results in comparing the operands numerically. The sole 
 which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. 
 The following table describes the comparison operators in terms of this sample code:
 
-for statement
-A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+# for statement
+A **for loop** repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
 A for statement looks as follows:
 
