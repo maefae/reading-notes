@@ -89,6 +89,8 @@ console.log((x == y) && (x===)) - output is false
 ```
 
 # for statement
+for loops are for when we know how many times we want our code to run
+
 A **for loop** repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
 A for statement looks as follows:
@@ -96,12 +98,30 @@ A for statement looks as follows:
 ```markdown
 for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
+  
+for (let i = 0;i < 10;i++) {
+      console.log(i); - (the i is 0 and it adds one until it is less than 10 so it loops from 1 to 9)
+}
+
+another example:
 ```
 
 # while statement
 
-A **while statement** executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
+A **while loop** executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 ```markdown
 while (condition)
   statement
+  
+  another example:
+  
+  let i = 0 (the variable is outside of the function changing it from local to global)
+  
+  while (i < 100) {
+      console.log(i);
+      i++;
+     }
 ```
+
+**Entering a while loop**, it will **test the expression** to see whether it's true or false. it is false, it will not loop. If it is true, then it will **body of while** and repeat the process 
+
