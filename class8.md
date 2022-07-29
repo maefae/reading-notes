@@ -110,8 +110,12 @@ another example:
 
 A **while loop** executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 ```markdown
-while (condition)
-  statement
+While(this condition evaluates to true){
+      this code will execute
+      }
+
+while (condition){
+  statement}
   
   another example:
   
