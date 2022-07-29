@@ -45,6 +45,3 @@ quote text with a >.
 # Quoting code
 You can call out code or a command within a sentence with single backticks. 
 Ctrl+E (Windows/Linux) keyboard shortcut will create the backticks for a code block within a line of Markdown.
-```markdown
-Use `git status` to list all new or modified files that haven't yet been committed.
-```
