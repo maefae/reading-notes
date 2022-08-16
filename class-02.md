@@ -1,4 +1,5 @@
-201 Reading Notes - Class 2 - Basics of HTML, CSS, and JS
+# 201 Reading Notes - Class 2: Basics of HTML, CSS, and JS
+
 It's important to know the basics of HTML, CSS, and JS in order to develop and build projects as well as eventually learn other languages down the line. 
 
 ## Links to Helpful Articles
