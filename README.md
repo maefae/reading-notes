@@ -16,7 +16,7 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 
 ## Code 201 - Foundations of Software Development
 ### Table of Contents
-- [201-Class 1]((https://maefae.github.io/reading-notes/class01)
+- [201-Class 1](https://maefae.github.io/reading-notes/class-01) - Intro to software Dev
 - [201-Class 2]()
 - [201-Class 3]()
 - [201-Class 4]()
