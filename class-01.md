@@ -1,5 +1,9 @@
 # 201 reading notes for class 1 - 
 # [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+It's important to understand how the web works in order to truly understand the very foundation which one will be learning about in their journey through tech. Building a strong foundation will allow the future software developer to see the bigger picture.
+
+
 ## Clients and Servers
 Clients and servers are computers connected to the web.
 ![client and server](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works/simple-client-server.png)
@@ -264,3 +268,7 @@ function createParagraph() {
   document.body.appendChild(para);
 }
 <button onclick="createParagraph()">Click me!</button>
+
+   ## Things I wanna know more about
+   
+Javascript and how to create games 
