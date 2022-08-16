@@ -8,11 +8,10 @@ It's important to use semantic elements in our HTML, because semantics give text
 3. How many levels of headings are there in HTML?
 There are **six levels** of headings in HTML
 
-5. What are some uses for the <sup> and <sub> elements?
-  The <sub> tag 
-  the <sup> tag adds a superscript text to an html document whereas the <sub> tag defines the subscript text which is sometimes displayed in a smaller font.
+5. What are some uses for the <sup > and <sub > elements?
+  the <sup > tag adds a superscript text to an html document whereas the <sub > tag defines the subscript text which displays in a smaller font.
   
-6. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+6. When using the <abbr > element, what attribute must be added to provide the full expansion of the term?
 
 ### [How CSS Is Structured.](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
   
@@ -22,10 +21,21 @@ There are **six levels** of headings in HTML
   externally: 
   
 3. Why should we avoid using inline styles?
-4. Review the block of code below and answer the following questions:
-5. What is representing the selector?
-6. Which components are the CSS declarations?
-7. Which components are considered properties?
+    Least effective execution of CSS for maintenance. One alteration of style might request several changes within one web page. Inline CSS also combines css code with
+    html and other content, thus making it harder to read and comprehend.
+    
+Review the block of code below and answer the following questions:
+    
+4. What is representing the selector?
+    h2
+    
+5. Which components are the CSS declarations?
+    color:black;
+    padding: 5px;
+    
+6. Which components are considered properties?
+    color, and padding
+    
 Learn JS
 
 1. What data type is a sequence of text enclosed in single quote marks?
