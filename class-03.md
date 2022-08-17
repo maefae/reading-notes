@@ -1,6 +1,6 @@
 # 201 Reading Notes - Class 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 
-This topic matters 
+This topic matters because lists help us organize and eventually help functions 
 
 ## Links to Coding Guides
 [learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
