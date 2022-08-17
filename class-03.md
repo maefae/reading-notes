@@ -59,24 +59,37 @@ Margin box: The margin is the outermost layer, wrapping the content, padding, an
 1. What data types can you store inside of an Array?
   strings, numbers, objects, and other arrays
   
-2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-yes, it's a valid array where you can access the values stored
-  
- const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
-  
+Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why? 
+The people array is valid. You can access it by using brackets that call the index of the value. for example, console.log(people[3][3]); would display the "artist" string in the console.
+
+const people = [
+  ['pete', 32, 'librarian', null],
+  ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'],
+  ['bill', null, 'artist', null],
+];
 List five shorthand operators for assignment in javascript and describe what they do.
-  
-  
-Read the code below and evaluate the last expression and explain what the result would be and why.
+‘x += y’ - Adds y to x and placed the result in x
+‘x *= y’ - Multiplies y and x and places the result in x
+‘x /= y’ - Divides x by y and places the result in x
+‘x &= y’ - Performed a logical AND operation on x and y, and places the result in x
+‘X++’ - Increments x by 1 (equivalent of x = x + 1)
+- Read the code below and evaluate the last expression and explain what the result would be and why.
 
- let a = 10;
- let b = 'dog';
- let c = false;
+let a = 10; let b = 'dog'; let c = false;
 
- // evaluate this
- (a + c) + b;
-Describe a real world example of when a conditional statement should be used in a JavaScript program.
-Give an example of when a Loop is useful in JavaScript.
-  
-  ## Things I want to know more about
-operators and how they work
+// evaluate this (a + c) + b;
+
+(10 + false) + b
+
+the answer is '10dog' because the c is a boolean
+
+Describe a real-world example of when a conditional statement should be used in a JavaScript program
+a conditional statement should be used when trying to decide what healthy option to eat. If you choose a healthy option, the food will be made for you. If it's something unhealthy, the response will be "choose something healthy".
+
+Give an example of when a loop is useful in JS
+A loop is useful in JS when something needs to "loop" until a condition is met. 
+
+for example: let's say you ask a question, but the answer is incorrect. A loop can repeat the question until it's correct.
+
+ (Links to an external site.)Things I want to know more about
+I want to learn more about arrays and practice how to access them
