@@ -20,15 +20,15 @@ You should used an unordered list to create a list of related items, but in no p
 You should use ordered lists to create a list of related items in a specific order
 
 7. Describe two ways you can change the numbers on list items provided by an ordered list?
-You can use the <li> tag nested within the <ol> tag to produce regular numbers.
+You can use the  li > tag nested within the <ol> tag to produce regular numbers.
 example:
-<ol>
+<ol
   <li>item 1</li>
 </ol>
  
- You can use the <ol type="i"> tag to change the numbers to be roman numerals 
+ You can use the <ol type="i" tag to change the numbers to be roman numerals 
  example: 
- <ol type="i">
+ <ol type="i"
   <li>roman numeral i</li>
 </ol> 
 
