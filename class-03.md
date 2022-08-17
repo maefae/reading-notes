@@ -1,11 +1,13 @@
 # 201 Reading Notes - Class 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 
+This topic matters 
+
 ## Links to Coding Guides
 [learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [order lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 [unordered lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
-## Queestions 
+## Questions 
 
 1. When should you use an unordered list in your HTML document?
 You should use an unordered list when you're trying to list something that no numerical ordering
@@ -19,6 +21,7 @@ You should use ordered lists to create a list of related items in a specific ord
 
 7. Describe two ways you can change the numbers on list items provided by an ordered list?
 You can use the <li> tag nested within the <ol> tag to produce regular numbers.
+example:
 <ol>
   <li>item 1</li>
 </ol>
@@ -30,10 +33,22 @@ You can use the <li> tag nested within the <ol> tag to produce regular numbers.
 </ol> 
 
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-The Box Model.
+[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+  
+  
 2. List and describe the four parts of an HTML elements box as referred to by the box model.
+  
+  anatomy of a block box in CSS:
+
+"Content box: The area where your content is displayed; size it using properties like inline-size and block-size or width and height.
+Padding box: The padding sits around the content as white space; size it using padding and related properties.
+Border box: The border box wraps the content and any padding; size it using border and related properties.
+Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties."
+  
+  ![box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/box-model.png)
+  - (https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 [learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
@@ -42,10 +57,16 @@ The Box Model.
 [loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
 1. What data types can you store inside of an Array?
+  strings, numbers, objects, and other arrays
+  
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-
+yes, it's a valid array where you can access the values stored
+  
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+  
 List five shorthand operators for assignment in javascript and describe what they do.
+  
+  
 Read the code below and evaluate the last expression and explain what the result would be and why.
 
  let a = 10;
@@ -56,3 +77,6 @@ Read the code below and evaluate the last expression and explain what the result
  (a + c) + b;
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 Give an example of when a Loop is useful in JavaScript.
+  
+  ## Things I want to know more about
+operators and how they work
