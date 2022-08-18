@@ -1,5 +1,7 @@
 # 201 Reading notes for class 4 - HTML Links, JS Functions, and Intro to CSS Layout
 
+this topic matters because html links help readers navigate through a page to find what they're looking for. JS functions are important as we will be utilizing these on a daily basis. CSS layout is also important because we need to correctly arrange our boxes in relation to the viewport as well as to one another
+
 ## Reading Questions 
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -63,3 +65,5 @@ two benefits of pair programming consist of job interview readiness and engaged 
 the day I will have to interview with jobs whether that be froma coding background or not. Becoming more efficient in engaged collaboration is a great
 skill to have when trying to network and so much more.
 
+## Things I wanna know more about
+how functions can solve real world problems
