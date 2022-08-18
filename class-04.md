@@ -6,14 +6,19 @@
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
 1. To create a basic link, we wrap text or other content inside what element?
+the < a > element
 
 2. The href attribute contains what information?
+indirect links to a webpage
 
 3. What are some ways we can ensure links on our pages are accessible to all readers?
+by creating descriptive text links and including keywords in the link that effectively describe what the link is linking to
 
-CSS Layout
+[CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
-CSS Layout: Normal Flow CSS Layout: Positioning
+[CSS Layout: Normal](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+
+[Flow CSS Layout: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 
 4. What is meant by “normal flow”?
 
