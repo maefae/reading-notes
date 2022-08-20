@@ -29,8 +29,8 @@ lossless Webp format in order to avoid losing image quality
 [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
 [Styling HTML Text Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
-6. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-The foreground controls what color your brush or pencil will be, while the background color erases any added color and replaces it with the background color, which is white by default (https://phlearn.com/tutorial/photoshop-basics-foreground-and-background-colors/#:~:text=The%20foreground%20controls%20what%20color,which%20is%20white%20by%20default.)
+6. "Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
+The foreground controls what color your brush or pencil will be, while the background color erases any added color and replaces it with the background color, which is white by default" (https://phlearn.com/tutorial/photoshop-basics-foreground-and-background-colors/#:~:text=The%20foreground%20controls%20what%20color,which%20is%20white%20by%20default.)
 
 8. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 use CSS to specify colors
@@ -42,5 +42,6 @@ whether to go with sans serif, serif, monospace, etc.
 font-size sets the size of the font, font-weight sets the boldness of a font, and the font-style alters the appearance of a font
 
 14. Describe two ways you could add spacing around the characters displayed in an h1 element.
-Either add margin right to the first h1 tag or you can add margin left to the second h1 tag
+"Either add margin right to the first h1 tag or you can add margin left to the second h1 tag"
+(https://stackoverflow.com/questions/70729170/css-change-spacing-between-two-headers#:~:text=You%20can%20either%20add%20margin,to%20the%20second%20h1%20tag.&text=The%20above%20given%20HTML%20code,in%20the%20first%20h1%20tag.)
 
