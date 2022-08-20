@@ -45,3 +45,5 @@ font-size sets the size of the font, font-weight sets the boldness of a font, an
 "Either add margin right to the first h1 tag or you can add margin left to the second h1 tag"
 (https://stackoverflow.com/questions/70729170/css-change-spacing-between-two-headers#:~:text=You%20can%20either%20add%20margin,to%20the%20second%20h1%20tag.&text=The%20above%20given%20HTML%20code,in%20the%20first%20h1%20tag.)
 
+## Things I want to know more about
+I want to know more about gif and svg images
