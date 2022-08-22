@@ -41,7 +41,7 @@ const dog = {
 }
 
 The **this** keyword refers to the current object the code is being written inside — so in this case this is equivalent to person.
-If you create more than one, this enables you to use the same method definition for every object you create.
+If you create more than one, this enables you to use the same method definition for every object you create. The example refers to "dog". 
 
 [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
