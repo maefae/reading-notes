@@ -1,6 +1,6 @@
 # Problem Domain, Objects, and the DOM
 
-This topic matters beause
+This topic matters because objects help condense code by holding a collection of data.
 
 # Reading Questions 
 [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
@@ -57,3 +57,6 @@ The DOM is not part of the JavaScript language, but is instead a Web API used to
 [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+
+# Things I wanna know about
+How is the DOM and an object used in real life situations?
