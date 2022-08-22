@@ -46,11 +46,14 @@ If you create more than one, this enables you to use the same method definition 
 [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 6. What is the DOM?
+(document object model: data representation of the objects that comprise the structure and content of a document on the web. IT's a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 
 8. Briefly describe the relationship between the DOM and JavaScript.
+The DOM is not part of the JavaScript language, but is instead a Web API used to build websites. JavaScript can also be used in other contexts. For example, Node. js runs JavaScript programs on a computer, but provides a different set of APIs, and the DOM API is not a core part of the Node.
+
 
 # Bookmark and Review
 
-Understanding the problem domain is the hardest part of programming
+[Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
-What’s the difference between primitive values and object references in JavaScript?
+[What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
