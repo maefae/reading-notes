@@ -6,7 +6,7 @@ This topic matters because objects help condense code by holding a collection of
 [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 1. How would you describe an object to a non-technical friend you grew up with?
-An object is a collection of data that usually consists of several functions and variables (which are called properties and methods whne they're inside objects)
+An object is a collection of data that typically consists of several functions and variables (which are called properties and methods when they're inside objects)
 
 3. What are some advantages to creating object literals?
 Object literals are where you literally write out the object contents as you create it. It's easier to send a single object rather than several items individually. 
