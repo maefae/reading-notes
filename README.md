@@ -21,9 +21,9 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 - [201-Class 3](https://maefae.github.io/reading-notes/class-03) - HTML Lists, Control Flow with JS, and the CSS Box Model
 - [201-Class 4](https://maefae.github.io/reading-notes/class-04) - HTML Links, JS Functions, and Intro to CSS Layout
 - [201-Class 5](https://maefae.github.io/reading-notes/class-05) - Images, Color, Text
-- [201-Class 6](https://maefae.github.io/reading-notes/class-05)
-- [201-Class 7]((https://maefae.github.io/reading-notes/class-07) - Object-Oriented Programming, HTML Tables
-- [201-Class 8]()
+- [201-Class 6](https://maefae.github.io/reading-notes/class-06)
+- [201-Class 7](https://maefae.github.io/reading-notes/class-07) - Object-Oriented Programming, HTML Tables
+- [201-Class 8](https://maefae.github.io/reading-notes/class-08)
 - [201-Class 9]()
 - [201-Class 10]()
 - [201-Class 11]()
