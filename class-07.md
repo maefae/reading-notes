@@ -6,7 +6,7 @@ This topic is important because we don't have to create nearly as many objects.
 
 # Reading Questions
 
-[Domain Modeling[(https://github.com/codefellows/domain_modeling#domain-modeling)
+[Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
 1. Explain why we need domain modeling.  
 
