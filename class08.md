@@ -17,13 +17,17 @@ You should be cautious when using any properties that reorder the visual display
 
 ## Read up to “Flex-Flow Shorthand”
 
-4. What are some advantages of using flexbox over float?
+  4. What are some advantages of using flexbox over float?
 
+Flexbox can display a row/column and single line by default (can be asked to wrap onto several lines). 
 
-5. How does this topic connect with your long term goals?
+  5. How does this topic connect with your long term goals?
 
+Having a background in graphic and UX/UI design, flexbox resonates with me as a very useful tool in my goal towards front-end development.
 
 ## Bookmark and Review
 [Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
 ## Things I wanna know more about
+
+ways to utilize flexbox in real life situations
