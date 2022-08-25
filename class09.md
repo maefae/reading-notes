@@ -10,7 +10,7 @@ This topic is important, because we need forms in order for a user and a website
 
 1. Why are forms so important in web development?
 
-because web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).
+  because web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).
 
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?
 
@@ -33,14 +33,16 @@ because web forms are one of the main points of interaction between a user and a
 4. How would you describe events to a non-technical friend?
 Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them.
 
-For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. In this article, we discuss some important concepts surrounding events, and look at how they work in browsers. This won't be an exhaustive study; just what you need to know at this stage.
+  For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. In this article, we discuss some important concepts surrounding events, and look at how they work in browsers. This won't be an exhaustive study; just what you need to know at this stage.
 
 5. When using the addEventListener() method, what 2 arguments will you need to provide?
 
 
 7. Describe the event object. Why is the target within the event object useful?
 
+
 7. What is the difference between event bubbling and event capturing?
+
 
 # Bookmark and Review
 [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
