@@ -43,7 +43,7 @@ it is automatically passed to event handlers to provide extra features and infor
 e/evt/event are most commonly used by developers because they are short and easy to remember. It's always good to be consistent — with yourself, and with others if possible
 
 7. What is the difference between event bubbling and event capturing?
-Event capturing means propagation of event is done from ancestor elements to child element in the DOM while event bubbling means propagation is done from child element to ancestor elements in the DOM
+Event capturing is adding the event and is accomplished from ancestor elements to child element in the DOM while event bubbling is selecting from child element to ancestor elements in the DOM
 
 # Bookmark and Review
 [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
