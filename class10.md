@@ -39,3 +39,6 @@ What is the call stack?
 [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
 [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+
+## Things I wanna know more about
+- how to use the call stack as well as other tools for debugging
