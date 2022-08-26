@@ -27,11 +27,13 @@ How will this topic continue to influence your long term goals?
 [The JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools#the_javascript_debugger)
 
 How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
-  
+  The Javascript Debugger tool is in the browser. It allows you to examine your code and evaluate each value/variable and set up breakpoints to help you determine where the code stopped working.
 
-Define what a breakpoint is.
+Define what a breakpoint is
+ A breakpoint allows you to isolate sections of code to determine where things went wrong in the code project. You can set breakpoints to pause execution at a certain place in your code to see if it works or does not work.
 
 What is the call stack?
+ The **call stack** shows you what code was executed in order to get to the current line
 
 #Bookmark and Review
 [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
