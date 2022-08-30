@@ -24,7 +24,7 @@ This topic is important because we can use Chart.js to make charts that comprehe
 [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 6. What are some advantages to displaying data via a chart over a table?
-
+The data on charts are a lot easier to read
 
 7. How could Chart.js aid your previously created applications visually?
 give visual statistical evidence to support what your webpage might potentially be trying to offer
