@@ -24,7 +24,7 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 - [201-Class 6](https://maefae.github.io/reading-notes/class-06) - Problem Domain, Objects, and the DOM
 - [201-Class 7](https://maefae.github.io/reading-notes/class-07) - Object-Oriented Programming, HTML Tables
 - [201-Class 8](https://maefae.github.io/reading-notes/class-08) - CSS LAyout
-- [201-Class 9](https://maefae.github.io/reading-notes/class-09) - 
+- [201-Class 9](https://maefae.github.io/reading-notes/class-09) - Forms and JS 
 - [201-Class 10](https://maefae.github.io/reading-notes/class-10) - Debugging
 - [201-Class 11](https://maefae.github.io/reading-notes/class-11) - 
 - [201-Class 12](https://maefae.github.io/reading-notes/class-12) -
