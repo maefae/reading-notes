@@ -1,5 +1,7 @@
 # 201 Reading Notes: Class 13 - Local Storage
 
+Why is this topic important? To avoid losing valuable data.
+
 [Local Storage and How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 
 Why would a developer use local storage for a web application?
