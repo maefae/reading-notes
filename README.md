@@ -26,7 +26,7 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 - [201-Class 8](https://maefae.github.io/reading-notes/class-08) - CSS LAyout
 - [201-Class 9](https://maefae.github.io/reading-notes/class-09) - Forms and JS Events
 - [201-Class 10](https://maefae.github.io/reading-notes/class-10) - Debugging
-- [201-Class 11](https://maefae.github.io/reading-notes/class-11) - 
+- [201-Class 11](https://maefae.github.io/reading-notes/class-11) - Audio, Video, Images
 - [201-Class 12](https://maefae.github.io/reading-notes/class-12) -
 - [201-Class 13](https://maefae.github.io/reading-notes/class-13) - Local Storage
 - [201-Class 14]()
