@@ -1,3 +1,5 @@
+# 201 Reading Notes: class 14b - The Perfect Team Article
+
 [What google learned from it's quest to build the perfect team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 Why this topic matters?
