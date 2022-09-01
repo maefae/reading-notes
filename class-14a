@@ -1,10 +1,32 @@
 201 Reading Notes: class 14 - [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 - What does a CSS transform allow the developer to do to an element?
-
+Elements may be distorted, or transformed, on both a two-dimensional plane or a three-dimensional plane. 
+Two-dimensional transforms work on the x and y axes, known as horizontal and vertical axes. 
+Three-dimensional transforms work on both the x and y axes, as well as the z axis. These three-dimensional 
+transforms help define not only the length and width of an element, but also the depth. We’ll start by discussing 
+how to transform elements on a two-dimensional plane, and then work our way into three-dimensional transforms.
 
 - Provide an example of a transform and how you could see that being used on a website.
+```markdown
+<figure class="box-1">Box 1</figure>
+<figure class="box-2">Box 2</figure>
 
+              
+CSS
+1
+2
+3
+4
+5
+6
+7
+.box-1 {
+  transform: rotate(20deg);
+}
+.box-2 {
+  transform: rotate(-55deg);
+```
 
 [CSS Transitions & Animations](CSS Transitions & Animations)
 
