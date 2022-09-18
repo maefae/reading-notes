@@ -29,5 +29,5 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 - [201-Class 11](https://maefae.github.io/reading-notes/class-11) - Audio, Video, Images
 - [201-Class 12](https://maefae.github.io/reading-notes/class-12) - Chart.js, Canvas
 - [201-Class 13](https://maefae.github.io/reading-notes/class-13) - Local Storage
-- [201-Class 14]()
-- [201-Class 15]()
+- [201-Class 14a]()
+- [201-Class 14b]()
