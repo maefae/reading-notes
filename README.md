@@ -34,4 +34,4 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 
 ## Code 301 - Intermediate Software Development
 ### Table of Contents
-- [301-class1]() - Introduction to React and Components
+- [301-class 1]() - Introduction to React and Components
