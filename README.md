@@ -1,5 +1,6 @@
 # Reading Journal
-I created this journal on July 1, 2022. I'm excited to say I completed code 102 and am continuing my journey in tech to 201
+
+I created this journal on July 1, 2022. It's a website where I take notes through my coding Boot Camp journey with Code Fellows
 
 ## Code 102 - Intro to Software Development
 ### Table of Contents
@@ -35,3 +36,6 @@ I created this journal on July 1, 2022. I'm excited to say I completed code 102 
 ## Code 301 - Intermediate Software Development
 ### Table of Contents
 - [301-class 1]() - Introduction to React and Components
+
+## Code 401 - Advanced Software Development
+### Table of Contents
