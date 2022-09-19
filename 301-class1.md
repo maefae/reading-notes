@@ -41,4 +41,4 @@ More of about how to use React and Components in real life scenarios
 
 Repo: https://github.com/maefae/reading-notes/edit/main/301-class1.md
 
-live: 
+live: https://maefae.github.io/reading-notes/301-class1
