@@ -14,6 +14,9 @@ Why is this topic important?
 3. When do we re-render our application?
 4. What are some examples of things that we could store in state?
 
+## Things I wanna know more about
+
+
 ## Bookmark and Review
 React Docs - State and lifecycle
 https://reactjs.org/docs/state-and-lifecycle.html
