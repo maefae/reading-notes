@@ -37,7 +37,10 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 ### Table of Contents
 - [301-class 1](https://maefae.github.io/reading-notes/301-class1) - Introduction to React and Components
 - [301-class 2](https://maefae.github.io/reading-notes/301-class2) - State and Props
-- [301-class 2](https://maefae.github.io/reading-notes/301-class3) - Passing Functions as Props
+- [301-class 3](https://maefae.github.io/reading-notes/301-class3) - Passing Functions as Props
+- [301-class 4](https://maefae.github.io/reading-notes/301-class4) - 
+- [301-class 5](https://maefae.github.io/reading-notes/301-class5) - 
+- [301-class 6](https://maefae.github.io/reading-notes/301-class6) - 
 
 ## Code 401 - Advanced Software Development
 ### Table of Contents
