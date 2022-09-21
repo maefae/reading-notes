@@ -1,5 +1,6 @@
 # 301 class 3 Reading Notes - Passing Functions as Props
 Why is this topic important?
+because passing functions as props improves react app comprehension and there are going to be occasions when you will have to pass functions from one component to another
 
 [React Docs - List and Keys](https://reactjs.org/docs/lists-and-keys.html)
 
@@ -55,12 +56,16 @@ represented with three dots (...), the spread operator gives you the ability to 
 First step is to make a function that would be passed to the child component
 
 2. In your own words, what does the increment function do?
-
+the increment function in the parent component takes an argument passed by the child, finds that value in an array of objects, and increments a number value for tha specif name found.
 
 3. How can you pass a method from a parent component into a child component?
-
+Pass the method as a prop to the child component (e.g. increment = {this.increment}).
 
 4. How does the child component invoke a method that was passed to it from a parent component?
+It can be invoked using this.props.methodName.
+
+# Things I wanna know more about
+Still feel pretty rusty on react so I want to continue doing research on videos for it on my own time
 
 # Bookmark and Review
 - [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
