@@ -1,4 +1,5 @@
-301 class 6 Reading Notes
+# 301 class 6 Reading Notes
+Why is this topic important?
 
 - What is node.js?
 Node.js is a runtime that uses Google’s V8 JavaScript engine and libuv library.
@@ -22,3 +23,5 @@ Basically, a program that can be used to execute JavaScript
 
 
 - What is node used for?
+
+## What I want to know more about
