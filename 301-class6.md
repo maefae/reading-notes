@@ -18,7 +18,7 @@ Node Package Manager
 v18. 5. 0
 
 - What version of npm are you running on your machine?
-8. 12. 1
+/8. 12. 1
 
 - What command would you type to install a library/package called ‘jshint’?
 npm install -g jshint
