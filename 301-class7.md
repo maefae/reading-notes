@@ -54,7 +54,7 @@ Did you get your API key?
 
 To get an API key, need to link it to an app first
 
-Things I want to know more about
+## Things I want to know more about
 not sure. 
 
 https://vigilos.github.io/reading-notes/reading301-7.html
