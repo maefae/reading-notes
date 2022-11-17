@@ -44,3 +44,4 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 
 ## Code 401 - Advanced Software Development
 ### Table of Contents
+- [401-class 1](https://maefae.github.io/reading-notes/401-class1) - 
