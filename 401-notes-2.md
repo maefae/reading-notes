@@ -18,7 +18,32 @@ You can do a keyword search on the Manual pages. It's man -k <search term>.
 
 ## File Manipulation - How to make, remove, rename, copy and move files and directories.
 Creating a directory is pretty easy. The command we are after is mkdir which is short for Make Directory.
+The command to remove a directory is rmdir, short for remove directory.
+  touch [options] <filename> is to create an empty file.
+  cp [options] <source> <destination> - copying a file or directory
+  mv [options] <source> <destination> - to move a file or directory
+  rm [options] <file> - Removing a file and non-empty directory.
+  mkdir
+  
+```
+Make Directory - ie. Create a directory.
+rmdir
+Remove Directory - ie. Delete a directory.
+touch
+Create a blank file.
+cp
+Copy - ie. Copy a file or directory.
+mv
+Move - ie. Move a file or directory (can also be used to rename).
+rm
+Remove - ie. Delete a file.
 
 mkdir [options] <Directory>
-
+````
+  
 ## Cheat Sheet
+https://ryanstutorials.net/linuxtutorial/cheatsheet.php
+  Handy tool to be used whenever I need to remind myself how to navigate the terminal.
+
+  
+  
