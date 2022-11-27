@@ -45,6 +45,6 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 ## Code 401 - Advanced Software Development
 ### Table of Contents
 - [401-Notes-1](https://maefae.github.io/reading-notes/401-notes-1) - Data Structures and Algorithms
-- [401-Notes-2](https://maefae.github.io/reading-notes/401-notes-2) - The Growth Mindset
-- [401-Notes-3](https://maefae.github.io/reading-notes/401-notes-3)
+- [401-Notes-2](https://maefae.github.io/reading-notes/401-notes-2) - Prep: terminal
+- [401-Notes-3](https://maefae.github.io/reading-notes/401-notes-3) - Prep: The Growth Mindset
 
