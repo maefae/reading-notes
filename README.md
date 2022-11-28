@@ -47,5 +47,5 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 - [401-Notes-1](https://maefae.github.io/reading-notes/401-notes-1) - Data Structures and Algorithms
 - [401-Notes-2](https://maefae.github.io/reading-notes/401-notes-2) - Prep: terminal
 - [401-Notes-3](https://maefae.github.io/reading-notes/401-notes-3) - Prep: The Growth Mindset
-- [401-class-1]() - Node Ecosystem
+- [401-class-1](https://maefae.github.io/reading-notes/401-class-1) - Node Ecosystem
 
