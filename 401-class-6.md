@@ -18,7 +18,7 @@
 2. What properties are necessary in the header of a Basic Auth request?
 
 
-3. How are username:password in Basic Auth encoded?
+3. How are `username:password` in Basic Auth encoded?
 
 [OWASP auth cheatsheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 1. Define the authentication process to a non-technical recruiter.
