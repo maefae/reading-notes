@@ -50,6 +50,6 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 - [401-Notes-4](https://maefae.github.io/reading-notes/401-notes-4) - SQL Tutorial
 - [401-class-1](https://maefae.github.io/reading-notes/401-class-1) - Node Ecosystem
 - [401-class-2](https://maefae.github.io/reading-notes/401-class-2) - Express, NPM, TDD, CI/CD
-- [401-class-3](https://maefae.github.io/reading-notes/401-class-3) -
-- [401-class-4](https://maefae.github.io/reading-notes/401-class-4) -
-- [401-class-5](https://maefae.github.io/reading-notes/401-class-5) -
+- [401-class-3](https://maefae.github.io/reading-notes/401-class-3) - Express REST API
+- [401-class-4](https://maefae.github.io/reading-notes/401-class-4) - Data Modeling
+- [401-class-5](https://maefae.github.io/reading-notes/401-class-6) - Authentication
