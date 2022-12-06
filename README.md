@@ -55,3 +55,7 @@ I created this journal on July 1, 2022. It's a website where I take notes throug
 - [401-class-6](https://maefae.github.io/reading-notes/401-class-6) - Authentication
 - [401-class-7](https://maefae.github.io/reading-notes/401-class-7) -
 - [401-class-8](https://maefae.github.io/reading-notes/401-class-8) - Access Control (ACL)
+- [401-class-9](https://maefae.github.io/reading-notes/401-class-9) -
+- [401-class-11](https://maefae.github.io/reading-notes/401-class-11) -
+- [401-class-12](https://maefae.github.io/reading-notes/401-class-12) -
+- [401-class-13](https://maefae.github.io/reading-notes/401-class-13) -
